@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\templatesneat\\TemplateSneat.csproj": {}
+    "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\IntegrateTemplateSneat\\TemplateSneat.csproj": {}
   },
   "projects": {
-    "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\templatesneat\\TemplateSneat.csproj": {
+    "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\IntegrateTemplateSneat\\TemplateSneat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\templatesneat\\TemplateSneat.csproj",
+        "projectUniqueName": "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\IntegrateTemplateSneat\\TemplateSneat.csproj",
         "projectName": "TemplateSneat",
-        "projectPath": "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\templatesneat\\TemplateSneat.csproj",
+        "projectPath": "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\IntegrateTemplateSneat\\TemplateSneat.csproj",
         "packagesPath": "C:\\Users\\nuari\\.nuget\\packages\\",
-        "outputPath": "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\templatesneat\\obj\\",
+        "outputPath": "G:\\Project\\Riset Tecknologi Kantor\\Frontend MVC\\IntegrateTemplateSneat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nuari\\AppData\\Roaming\\NuGet\\NuGet.Config",
